@@ -1,6 +1,6 @@
 #Adventure Game
 
-Adventure Game was the final project in my JAVA programming class my freshman year of college. The goal was to made an adventure game given a map of a school building wherein you were supposed to enter a building, find and retrieve a laptop, and exit the building to win. 
+Text based adventure game where, given a map, we were supposed to design a school building wherein the player is supposed to enter a building, find and retrieve a laptop, and exit the building to win. 
 
 There are several other objects to collect in the game including a flashlight, candy bar, and more. 
 
