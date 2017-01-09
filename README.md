@@ -8,7 +8,7 @@ There are several other objects to collect in the game including a flashlight, c
 
 ##Winning and Losing
 
-Steps to Win:
+**Steps to Win:**
 
 1) Move North  
 2) Move West  
@@ -23,7 +23,7 @@ Steps to Win:
 11) Move South  
 
 
-Ways to Lose:
+**Ways to Lose:**
 
 1) Break flashlight before collecting laptop - can't collect laptop without it  
 2) Break flashlight while in dark room - die of horror  
