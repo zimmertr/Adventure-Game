@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_11\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\TJ\Desktop\School Work\Sophomore Year\Second Semester\CS162\Projects\Project 5 - Adventure Game
+-d
+C:\Users\TJ\Desktop\School Work\Sophomore Year\Second Semester\CS162\Projects\Project 5 - Adventure Game\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\TJ\Desktop\School Work\Sophomore Year\Second Semester\CS162\Projects\Project 5 - Adventure Game\Game.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\TJ\Desktop\School Work\Sophomore Year\Second Semester\CS162\Projects\Project 5 - Adventure Game\Game.java...
+C:\Users\TJ\Desktop\School Work\Sophomore Year\Second Semester\CS162\Projects\Project 5 - Adventure Game\Game.java:261: error: ')' expected
+            if (itemTemp == flashlight
+                                      ^
+1 error

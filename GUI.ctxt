@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUI()
+comment0.text=\r\nGUI\ Method\ sets\ up\ the\ layout\ of\ the\ GUI.\r\n@param\ none\r\n@return\ none\r\n
+comment1.params=
+comment1.target=void\ gameOver()
+comment1.text=\r\n\ gameOver\ method\ sets\ all\ buttons\ to\ disabled.\r\n\ @param\ none\r\n\ @return\ none\r\n
+comment2.params=
+comment2.target=void\ newGame()
+comment2.text=\r\n\ New\ game\ wipes\ the\ info\ field,\ blanks\ inventory,\ sets\ all\ .\r\n\ buttons\ to\ enabled,\ etc.\r\n\ @param\ none\r\n\ @return\ none\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ Method\ is\ used\ to\ create\ a\ new\ GUI\ for\ the\ game.\r\n\ @param\ none\r\n\ @return\ none\r\n
+numComments=4
