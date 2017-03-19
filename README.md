@@ -1,4 +1,4 @@
-#Adventure Game
+# Adventure Game
 
 Text based adventure game where, given a map, we were supposed to design a school building wherein the player is supposed to enter a building, find and retrieve a laptop, and exit the building to win. 
 
@@ -6,7 +6,7 @@ There are several other objects to collect in the game including a flashlight, c
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Adventure-Game/master/screenshot.png "AG Screenshot")
 
-##Winning and Losing
+## Winning and Losing
 
 **Steps to Win:**
 
